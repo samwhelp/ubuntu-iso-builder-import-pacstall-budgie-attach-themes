@@ -61,7 +61,7 @@ if [ "$XDG_CURRENT_DESKTOP" != "KDE" ]; then
 	## qt-style-follow-qt6ct
 	##
 
-	#export QT_QPA_PLATFORMTHEME=qt6ct
+	export QT_QPA_PLATFORMTHEME=qt6ct
 
 
 
@@ -79,8 +79,8 @@ if [ "$XDG_CURRENT_DESKTOP" != "KDE" ]; then
 	## qt-style-follow-kvantum
 	##
 
-	export QT_QPA_PLATFORMTHEME=kvantum
-	export QT_STYLE_OVERRIDE=kvantum
+	#export QT_QPA_PLATFORMTHEME=kvantum
+	#export QT_STYLE_OVERRIDE=kvantum
 
 
 
