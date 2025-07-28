@@ -1,19 +1,19 @@
 
 
-# ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes
+# ubuntu-iso-builder-import-pacstall-budgie-attach-themes
 
 
 
 
 ## Home
 
-> [ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/)
+> [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/)
 
 | Link | GitHub |
 | ---- | ------ |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
-| [ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes) |
+| [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes) |
 | `=` |
 | [ubuntu-iso-builder-include-pacstall-budgie-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-budgie-theme-vimix) |
 
@@ -34,9 +34,9 @@
 
 | Config |
 | ------ |
-| [~/.config](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/tree/main/profile/template/asset/overlay/etc/skel/.config) |
-| [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/tree/main/profile/template/asset/overlay/usr/share/glib-2.0/schemas) |
-| [/etc/dconf/db/distro.d](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/tree/main/profile/template/asset/overlay/etc/dconf/db/distro.d) |
+| [~/.config](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/tree/main/profile/template/asset/overlay/etc/skel/.config) |
+| [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/tree/main/profile/template/asset/overlay/usr/share/glib-2.0/schemas) |
+| [/etc/dconf/db/distro.d](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/tree/main/profile/template/asset/overlay/etc/dconf/db/distro.d) |
 
 
 
@@ -63,17 +63,17 @@ sudo apt-get install git
 
 ### Combine
 
-> clone [ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes)
+> clone [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes)
 
 ``` sh
-git clone https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes.git
+git clone https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes.git
 ```
 
 
-> change dir to `ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes`
+> change dir to `ubuntu-iso-builder-import-pacstall-budgie-attach-themes`
 
 ``` sh
-cd ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes
+cd ubuntu-iso-builder-import-pacstall-budgie-attach-themes
 ```
 
 
@@ -87,10 +87,10 @@ make combine-via-git
 ### Build
 
 
-> change dir to `~/work/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/iso-profile`
+> change dir to `~/work/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/iso-profile`
 
 ``` sh
-cd ~/work/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/iso-profile
+cd ~/work/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/iso-profile
 ```
 
 
@@ -100,7 +100,7 @@ cd ~/work/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/is
 make build
 ```
 
-> The resulting ISO file will be placed on `~/work/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix-attach-themes/iso-profile/dist`
+> The resulting ISO file will be placed on `~/work/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/iso-profile/dist`
 
 
 
