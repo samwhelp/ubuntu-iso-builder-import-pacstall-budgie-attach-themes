@@ -9,13 +9,13 @@
 
 > [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-budgie-attach-themes/)
 
-| Link | GitHub |
-| ---- | ------ |
+| Project |
+| ------- |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-attach-themes) |
 | `=` |
-| [ubuntu-iso-builder-include-pacstall-budgie-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-budgie-theme-vimix) |
+| [ubuntu-iso-builder-include-pacstall-budgie-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-budgie-attach-themes) |
 
 
 
